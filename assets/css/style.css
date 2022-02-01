@@ -75,10 +75,6 @@ button{
     cursor: pointer;
 }
 
-button:hover{
-    
-}
-
 #resultado{
     font-family: 'Poppins';
     font-weight: 600;
